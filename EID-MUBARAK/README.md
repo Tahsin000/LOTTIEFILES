@@ -1,6 +1,6 @@
 # EID-MUBARAK
 
-## Preview - [Click ME](https://abrar1212.github.io/LOTTIEFILES/EID-MUBARAK/eid-mubarak.html) 
+## Preview - [Click ME](https://tahsin000.github.io/LOTTIEFILES/EID-MUBARAK/eid-mubarak.html) 
 
 ## lottiefiles
 ### EID-MUBARAK
