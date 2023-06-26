@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="HHJN.svg" />
+    <title>eid mubarak</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+        .height-100{
+            height: 100vh;
+            padding: 1em;
+        }
+        .center-align{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 40px;
+        }
+        #copyRight{
+            color: white;
+            text-align: center;
+            margin-top: .5rem;
+            margin-bottom: .5rem;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body id="ContainerBody">
+    <div class="col d-flex justify-content-center flex-column" id="animation">
+        <div class="d-flex  justify-content-center" id="animationChild">
+            <lottie-player src="eid.json"  background="transparent" speed="1" style="height: 100vh" loop autoplay> </lottie-player>
+        </div>
+        <a  href="https://github.com/TEAM-OF-HHJN" id="copyRight"><small >Copyright © 2023 <span style="font-weight: 700;">HHJN</span> </small></a>
+    </div>
+    <script src="js/lottie-player.js"></script>
+    <script type = "text/javascript" > 
+    toggle_color("#fff", "#004643", 4100, 1900);
+    document.body.style.backgroundColor = "#004643";
+    function toggle_color(color1, color2, cycle_time, wait_time) {
+    
+        setInterval(function first_color() {
+            document.body.style.backgroundColor = color1;
+            document.getElementById("copyRight").style.color = color2;
+            setTimeout(change_color, wait_time);
+        }, cycle_time);
+        
+        function change_color() {
+            document.body.style.transitionDuration = "200ms";
+            document.body.style.backgroundColor = color2;
+            document.getElementById("copyRight").style.color = color1   ;
+        }
+    } 
+    </script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
