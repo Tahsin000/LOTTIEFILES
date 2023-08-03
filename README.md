@@ -28,6 +28,14 @@
 
 <hr />
 
+## EID-MUBARAK
+
+- [Code View](<EID-MUBARAK/eid-mubarak.html>)
+
+- [Live View](https://tahsin000.github.io/LOTTIEFILES/EID-MUBARAK/eid-mubarak.html)
+
+<hr />
+
 ## Hexagon Loader
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Hexagon%20Loader)
@@ -41,6 +49,14 @@
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Letter%20Box)
 
 - [Live View](https://abrar1212.github.io/LOTTIEFILES/Letter%20Box/letter%20box.html)
+
+<hr />
+
+## Liberate Loader
+
+- [Code View](<Liberate Loader/Liberate Loader.html>)
+
+- [Live View](https://tahsin000.github.io/LOTTIEFILES/Liberate%20Loader/Liberate%20Loader.html)
 
 <hr />
 
@@ -65,5 +81,3 @@
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Tiktok)
 
 - [Live View](https://abrar1212.github.io/LOTTIEFILES/Tiktok/Tiktok.html)
-
-
