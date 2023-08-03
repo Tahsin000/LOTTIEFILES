@@ -1,4 +1,4 @@
-# Blendin Loade
+# Liberate Loader
 
 ## Preview - [Click ME](https://abrar1212.github.io/LOTTIEFILES/Liberate%20Loader/Liberate%20Loader.html) 
 
