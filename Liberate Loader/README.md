@@ -1,6 +1,6 @@
 # Blendin Loade
 
-## Preview - [Click ME](https://abrar1212.github.io/LOTTIEFILES/Liberate%20Loader/Blendin%20Logo.html) 
+## Preview - [Click ME](https://abrar1212.github.io/LOTTIEFILES/Liberate%20Loader/Liberate%20Loader.html) 
 
 ![Alt text](<liberate logo_1.gif>)
 
