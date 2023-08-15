@@ -2,17 +2,26 @@
 
 ## lottiefiles animation
 
-<hr />
-
-## Blendin Loader
-
-- [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Blendin%20Loader)
-
-- [Live View](https://abrar1212.github.io/LOTTIEFILES/Blendin%20Loader/Blendin%20Logo.html)
 
 <hr />
 
-## Box Axis
+### Twitter-x
+
+- [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Twitter-x)
+
+- [Live View](https://tahsin000.github.io/LOTTIEFILES/Twitter-x/Twitter-x.html)
+
+<hr />
+
+### Three Rectangle
+
+- [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Three%20Rectangle)
+
+- [Live View](https://tahsin000.github.io/LOTTIEFILES/Three%20Rectangle/Three_rectangle.html)
+
+<hr />
+
+### Box Axis
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Box%20Axis)
 
@@ -20,7 +29,7 @@
 
 <hr />
 
-## CircularLoader
+### CircularLoader
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/CircularLoader)
 
@@ -28,7 +37,7 @@
 
 <hr />
 
-## EID-MUBARAK
+### EID-MUBARAK
 
 - [Code View](<EID-MUBARAK/eid-mubarak.html>)
 
@@ -36,7 +45,7 @@
 
 <hr />
 
-## Hexagon Loader
+### Hexagon Loader
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Hexagon%20Loader)
 
@@ -44,7 +53,7 @@
 
 <hr />
 
-## Letter Box
+### Letter Box
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Letter%20Box)
 
@@ -52,7 +61,7 @@
 
 <hr />
 
-## Liberate Loader
+### Liberate Loader
 
 - [Code View](<Liberate Loader/Liberate Loader.html>)
 
@@ -60,7 +69,7 @@
 
 <hr />
 
-## Outgoing Mail
+### Outgoing Mail
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Outgoing%20Mail)
 
@@ -68,7 +77,7 @@
 
 <hr />
 
-## Outgoing Mail
+### Outgoing Mail
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Outgoing%20Mail)
 
@@ -76,8 +85,17 @@
 
 <hr />
 
-## Tiktok
+### Tiktok
 
 - [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Tiktok)
 
 - [Live View](https://abrar1212.github.io/LOTTIEFILES/Tiktok/Tiktok.html)
+
+  <hr />
+  
+### Blendin Loader
+
+- [Code View](https://github.com/Tahsin000/LOTTIEFILES/tree/main/Blendin%20Loader)
+
+- [Live View](https://abrar1212.github.io/LOTTIEFILES/Blendin%20Loader/Blendin%20Logo.html)
+
