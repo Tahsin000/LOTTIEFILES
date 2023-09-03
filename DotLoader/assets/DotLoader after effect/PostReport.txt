@@ -1,0 +1,32 @@
+Report created: 
+	03/09/2023	9:22:08 PM
+
+Project name: Post.aep
+
+Source files collected to: 
+	E:\git\LOTTIEFILES\DotLoader\assets\DotLoader
+
+Source files collected: For all comps
+
+Collected comps:  
+	Hotash
+	DOt
+	Dot icon
+	Lottifile
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  4-Color Gradient
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Kalpurush ANSI”, Font style: “Regular”
+
