@@ -1,0 +1,26 @@
+Report created: 
+	07/09/2023	12:50:52 AM
+
+Project name: K Looping.aep
+
+Source files collected to: 
+	E:\git\LOTTIEFILES\K-Looping\assets\K Looping folder
+
+Source files collected: All
+
+Collected comps:  
+	X-Lopping
+	composition
+	Forword looping
+	Forword looping 2
+	
+Number of collected files:  1
+
+Size of collected files:  314 KB
+
+Collected source files: 
+	C:\Users\Tahsin Abrar\Desktop\Temp\K Looping\composition.ai
+	
+Rendering plug-ins:
+	Classic 3D
+	
