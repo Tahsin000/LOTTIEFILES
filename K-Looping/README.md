@@ -2,7 +2,9 @@
 
 ## Preview - [Click ME](https://tahsin000.github.io/LOTTIEFILES/K-Looping/K-Looping.html) 
 
+![Alt text](assets/k-composition.gif)
 ![Alt text](assets/K-Looping.gif)
+
 
 ### lottiefiles code
 ```json
